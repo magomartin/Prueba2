@@ -7,7 +7,7 @@ Contiene los siguientes elementos como parte del deliverable:
 Contiene los siguientes elementos adicionales:
 "my_model.h5": Modelo guardado en formato h5 (HDF5)
 Si se quiere conocer el código con el que se entrenó el modelo, puedo proveerlo contactándome al correo.
-Utilicé el script de eval.py (con los datos de Test a los que tenía acceso) para verificar que funcionara: para hacer esto sustituí en el script de eval.py la siguiente línea 
+Utilicé el script de eval.py (con los datos de Test a los que tenía acceso) para verificar que funcionara: para hacer esto importé el repositorio con el enunciado del examen y sustituí en el script de eval.py la siguiente línea 
 Test_data=load_test_paths('./Rice_Image_Dataset/Test/')
 
 por esta otra:
