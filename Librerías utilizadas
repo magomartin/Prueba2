@@ -1,3 +1,0 @@
-# Utilizo las siguientes librerías: requests, numpy, tensorflow, de tensorflow importo keras, os.
-#Dentro de model.py importo las librerías, asumiendo que se trabaja en un entorno virtual como google colab donde no hace falta instalarlas manualmente.
-# Anotación importante: si en algún momento se corre el código por segunda vez, por favor reiniciar el entorno para evitar errores :) 
